@@ -67,7 +67,7 @@
     "helmet": "~3.9",
     "html-entities": "~1.2",
     "jasmine": "^2.8.0",
-    "js-yaml": "3.10",
+    "js-yaml": "3.13",
     "jsonwebtoken": "~8",
     "jssha": "~2.3",
     "libxmljs": "~0.18",
